@@ -9,7 +9,7 @@ An Apps  that displays a list of leagues and football matches
 
 - [Features](#features)
     - [List Leagues](#list-league)
-    - [List Matchs](#list-match)
+    - [List Matches](#list-matches)
     - [Detail Match](#detail-match)
     - [List Teams](#list-team)
     - [Detail Team](#detail-team)
