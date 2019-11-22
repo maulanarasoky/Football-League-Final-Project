@@ -8,12 +8,12 @@ An Apps  that displays a list of leagues and football matches
 # Content
 
 - [Features](#features)
-    - [List League](#list-league)
-    - [List Match](#list-match)
+    - [List Leagues](#list-league)
+    - [List Matchs](#list-match)
     - [Detail Match](#detail-match)
-    - [List Team](#list-team)
+    - [List Teams](#list-team)
     - [Detail Team](#detail-team)
-    - [List Player](#list-player)
+    - [List Players](#list-player)
     - [Detail Player](#detail-player)
     - [Favorite](#favorite)
     - [Search Match](#search-match)
@@ -21,41 +21,41 @@ An Apps  that displays a list of leagues and football matches
 
 # Features
 
-## List League
+## List Leagues
 
-![ListLeague](https://drive.google.com/open?id=1bKwNRUegJEybBXai-yGc30gVqbdQLDen)
+![ListLeagues](https://github.com/maulanarasoky/Football-League-Final-Project/blob/master/images/List%20League.gif)
 
-## List Match
+## List Matches
 
-![ListMatch](https://drive.google.com/open?id=1aMCptPlCn0aB7s_kd5BH-RiB7DHMO05N)
+![ListMatches](https://github.com/maulanarasoky/Football-League-Final-Project/blob/master/images/List%20Match.gif)
 
 ## Detail Match
 
-![DetailMatch](https://drive.google.com/open?id=1bQFlfl0X1iB-GF4KAmFJymd0PRDkzjwu)
+![DetailMatch](https://github.com/maulanarasoky/Football-League-Final-Project/blob/master/images/Detail%20Match.gif)
 
-## List Team
+## List Teams
 
-![ListTeam](https://drive.google.com/open?id=1bIB8o5PJD8vWCJNfHlmcnG23IW64eZ1c)
+![ListTeams](https://github.com/maulanarasoky/Football-League-Final-Project/blob/master/images/List%20Team.gif)
 
 ## Detail Team
 
-![DetailTeam](https://drive.google.com/open?id=1bRBA7qTH3EFRuAgLyonXecC17bfjEWmn)
+![DetailTeam](https://github.com/maulanarasoky/Football-League-Final-Project/blob/master/images/Detail%20Team.gif)
 
-## List Player
+## List Players
 
-![ListPlayer](https://drive.google.com/open?id=1bZSSAiiiEucjYG-v1QhfqDlSH_JnAhGP)
+![ListPlayers](https://github.com/maulanarasoky/Football-League-Final-Project/blob/master/images/List%20Players.gif)
 
 ## Detail Player
 
-![DetailPlayer](https://drive.google.com/open?id=1b__A2YUVBbVRa_2qNz-ZCb3vzCHnMfoI)
+![DetailPlayer](https://github.com/maulanarasoky/Football-League-Final-Project/blob/master/images/Detail%20Player.gif)
 
 ## Favorite
 
-![Favorite](https://drive.google.com/open?id=1ac5tcBGc18xzihgVg52Qq1vg5drwt2qx)
+![Favorite](https://github.com/maulanarasoky/Football-League-Final-Project/blob/master/images/Favorite.gif)
 
 ## Search Match
 
-![SearchMatch](https://drive.google.com/open?id=1bbAjdchrFM3vpi0mE1VGU3yyU_tsgLfg)
+![SearchMatch](https://github.com/maulanarasoky/Football-League-Final-Project/blob/master/images/Search%20Match.gif)
 
 # License
 
